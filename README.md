@@ -1,7 +1,7 @@
 Implementação de um protocolo para troca de certificados digitais com autenticação múta.
 
 Depêndencias:
-	boost asio, crypto++ e sqlit3
+	boost asio, crypto++ e sqlite3
 
 Protocolo:
 1 - Bob e Alice estabalecem um canal Diffie-Hellman;
